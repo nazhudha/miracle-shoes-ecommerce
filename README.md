@@ -19,11 +19,15 @@ A front facing e-commerce shoe app, built using React, where you can view produc
 
 ## Initial WireFrame
 - Initial Wire Frame Build [view link](https://jamboard.google.com/d/11vU3Zf6ui-58_oKHhe7bkJp5hA6--LwshrykxNRS3lU/edit?usp=sharing)
+
 ![Wire Frame](./assets/wireframe.png) 
 
 
 ## App ScreenShots
+Main Page
 ![Main Page](./assets/screen%201.png) 
+
+View Shoe 
 ![View Shoe](./assets/screen%202.png)
 
 # Getting Started with Create React App
