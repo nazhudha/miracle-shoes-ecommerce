@@ -1,16 +1,15 @@
 
 # Miracle Shoe
-### Team Project Build (Bath Spa)
-A front facing e-commerce shoe app built using React, where you can view product, filter, purchase and place orders.
+### Team Project Build (Bath Spa Bootcamp)
+A front facing e-commerce shoe app, built using React, where you can view products, filter, purchase and place orders.
 
-
-## Undertaking
-- Initial Wire Frame Build [view link](https://jamboard.google.com/d/11vU3Zf6ui-58_oKHhe7bkJp5hA6--LwshrykxNRS3lU/edit?usp=sharing)
+## Undertaking 
 - Nav Bar
-- Main Page, Renders Shoe data from Json file
-- Individual Product page, expands 'on view'
-- Low stock display, changes depending on stock levels
-- Filter & Search Data
+- Main Page (Renders Shoe data from Json file)
+- Individual Product Page (expands 'on view' button)
+- Low stock display (changes depending on stock levels)
+- Image sub tag (photo credit to original uploader)
+- Filter & Search Data Functions
 
 ## Team (Alphabetical)
 - [Andrei Butuc](https://github.com/andreibtc84)
@@ -18,6 +17,14 @@ A front facing e-commerce shoe app built using React, where you can view product
 - [Naz H](https://github.com/nazhudha)
 - [Owen ](https://github.com/owenbrannagan)
 
+## Initial WireFrame
+- Initial Wire Frame Build [view link](https://jamboard.google.com/d/11vU3Zf6ui-58_oKHhe7bkJp5hA6--LwshrykxNRS3lU/edit?usp=sharing)
+![Wire Frame](./assets/wireframe.png) 
+
+
+## App ScreenShots
+![Main Page](./assets/screen%201.png) 
+![View Shoe](./assets/screen%202.png)
 
 # Getting Started with Create React App
 
